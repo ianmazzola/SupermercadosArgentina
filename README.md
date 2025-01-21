@@ -53,10 +53,10 @@ Este proyecto utiliza datos abiertos del sitio [Datos Argentina](https://datos.g
 
 ## **Análisis Realizado e Insights**
 1. **Resumen General**:
-   ![Dashboard 1](panel_general.png)
+   ![Dashboard 1](panel general.png)
 2. **Impacto de la Pandemia**:
    ![Dashboard 2](pandemia.png)
 3. **Medios de Pago**:
-   ![Dashboard 3](medios_de_pago.png)
+   ![Dashboard 3](medios de pago.png)
 4. **Categorías de Productos**:
    ![Dashboard 4](productos.png)
