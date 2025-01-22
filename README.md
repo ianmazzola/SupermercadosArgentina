@@ -53,10 +53,13 @@ Este proyecto utiliza datos abiertos del sitio [Datos Argentina](https://datos.g
 
 ## **Análisis Realizado e Insights**
 1. **Resumen General**:
+   - En el año **2023**, los productos de **electrónica** fueron los mas vendidos. Este rubro creció aproximadamente un **108,62%** respecto al año **2022**. Según el informe del cuarto trimestre del INDEC, los pequeños electrodomésticos fueron los artículos con mayor variación porcentual respecto al 2022.
+   - El grupo de artículos de **indumentaria y calzado** llegó a ser el **segundo más vendido** del año **2021**, posicionandose por delante de productos de consumo alimenticio tales como los lácteos, carnes, frutas y verduras. Esto puede haber ocurrido debido a que el estilo de vida de trabajo remoto y estudios virtuales creo la necesidad de usar ropa cómoda para cumplir con las obligaciones desde el hogar.
+   - El consumo de los argentinos suele **caer drásticamente** en el mes de **Junio** comparado con el mes anterior. En los únicos años donde no se registra esta caída son en **2018**, debido a un mal mes de Mayo de dicho año, en **2020** hubo una caída del **0,46%** y en **2021** vemos una subida del **5,14%**
    ![Dashboard 1](panel_general.png)
-2. **Impacto de la Pandemia**:
+3. **Impacto de la Pandemia**:
    ![Dashboard 2](pandemia.png)
-3. **Medios de Pago**:
+4. **Medios de Pago**:
    ![Dashboard 3](medios_de_pago.png)
-4. **Categorías de Productos**:
+5. **Categorías de Productos**:
    ![Dashboard 4](productos.png)
