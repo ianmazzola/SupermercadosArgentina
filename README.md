@@ -66,4 +66,9 @@ Este proyecto utiliza datos abiertos del sitio [Datos Argentina](https://datos.g
    - Las **tarjetas de crédito** fueron el medio de pago más utilizado en **2020**. Bajo mi punto de vista, esto puede estar relacionado con la **demanda de equipos tecnológicos** que vino debido a una necesidad de estudiar y trabajar de forma remota. Estos productos no son baratos, por ende gente en situaciones económicas más vulnerables, **puede haber requerido una financiación en cuotas** para acceder a una computadora, notebook, celular, entre otros. 
    ![Dashboard 3](medios_de_pago.png)
 4. **Categorías de Productos**:
+Dado que tenía 11 rubros de productos en el dataset, decidí crear 3 **categorías de productos**.
+- Los **productos esenciales** son aquellos que satisfacen necesidades básicas para el bienestar de una familia. Está compuesto por alimentos, bebidas y productos de limpieza.
+- Los **productos ocasionales** son aquellos que esporádicamente los argentinos compran. Elegí conformar esta categoría con indumentaria, electrónica y rotisería. Bajo mi punto de vista, no es una representación muy precisa del consumo ocasional, pero no puedo considerar a estos 3 rubros como un esencial del consumidor. Por otra parte, hay rubros esenciales que dentro tienen productos ocasionales. Por ejemplo, en las ventas de almacén probablemente se incluyan las ventas de Huevos de Pascua, que únicamente se consumen durante la época de pascua.
+- Considere al rubro de **otros productos** como la tercera y última categoría.
+
    ![Dashboard 4](productos.png)
